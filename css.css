@@ -6,8 +6,12 @@ h1 {
 }
 h3 {
     border: 1px black solid;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 .item {
+  position: absolute;
   background-color: pink;
   border: 1px black solid;
   margin: 10px;
