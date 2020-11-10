@@ -12,9 +12,18 @@ h3 {
     top: 0;
     right: 0;
 }
+.title1 {
+  background: white;
+}
+.title2 {
+  background: white;
+}
+.title3 {
+  background: white;
+}
 .item {
   position: relative;
-  background-color: pink;
+  background-color: #eae4e5;
   border: 1px black solid;
   margin: 10px;
   width: 33.33%;
