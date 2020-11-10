@@ -13,13 +13,18 @@ h3 {
     right: 0;
 }
 .title1 {
-  background: white;
+  background: #f3c3c3;
 }
 .title2 {
-  background: white;
+  background: #fd6565;
+  color: white;
 }
 .title3 {
-  background: white;
+  background: #f9da68;
+}
+p {
+    margin-top: 10%;
+    margin-left: 10%;
 }
 .item {
   position: relative;
