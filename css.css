@@ -6,6 +6,8 @@ h1 {
 }
 .item {
   background-color: pink;
+  border: 1px black solid;
+  margin: 10px;
 }
 @media (min-width: 768px and max-width: 991px) {
   
