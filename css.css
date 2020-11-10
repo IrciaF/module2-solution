@@ -5,7 +5,7 @@ h1 {
   font-weight: bold;
 }
 .item {
-  background: pink;
+  background-color: pink;
 }
 @media (min-width: 768px and max-width: 991px) {
   
