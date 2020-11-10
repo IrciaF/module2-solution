@@ -13,7 +13,7 @@ h3 {
     right: 0;
 }
 .item {
-  position: reletive;
+  position: relative;
   background-color: pink;
   border: 1px black solid;
   margin: 10px;
