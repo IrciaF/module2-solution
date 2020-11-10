@@ -13,11 +13,12 @@ h3 {
     right: 0;
 }
 .item {
-  position: absolute;
+  position: reletive;
   background-color: pink;
   border: 1px black solid;
   margin: 10px;
   width: 33.33%;
+  min-height: 160px;
 }
 .row {
     display: flex;
