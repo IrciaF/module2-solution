@@ -38,7 +38,7 @@ p {
 .row {
     display: flex;
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 991px) {
   .row {
     
   }
@@ -48,4 +48,9 @@ p {
 .box3 {
   width: 100%;  
 }
+}
+@media (max-width: 767px) {
+  .row {
+    
+  }
 }
