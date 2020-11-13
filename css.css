@@ -35,12 +35,9 @@ p {
   width: 33.33%;
   min-height: 160px;
 }
-.row {
-    display: flex;
-}
 /*Large Devices*/
 
-@media(min-width: 992px) {
+@media(max-width: 1700px) {
   .col-lg-1,
   .col-lg-2,
   .col-lg-3,
@@ -97,7 +94,7 @@ p {
 
 /*Medium Devices*/
 
-@media(min-width: 768px) {
+@media(max-width: 991px) {
   .col-md-1,
   .col-md-2,
   .col-md-3,
