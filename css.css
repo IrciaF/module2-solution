@@ -10,9 +10,8 @@ h1 {
 }
 h3 {
     border: 1px black solid;
-    position: absolute;
-    top: 0;
-    right: 0;
+    width: 30%;
+    float: right;
     padding: 1% 10%;
     font-family: 'Mali', cursive;
 }
@@ -27,14 +26,12 @@ h3 {
   background: #f9da68;
 }
 p {
-    margin: 10%;
+    border: 1px white solid;
+    padding: 20%;
+    background: #eee;
 }
 .item {
-  position: relative;
   background-color: #eae4e5;
-  border: 1px black solid;
-  /*margin: 10px;*/
-  width: 33.33%;
   min-height: 160px;
 }
 /*Large Devices*/
