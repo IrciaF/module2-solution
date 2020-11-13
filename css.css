@@ -2,11 +2,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Mali', cursive;
 }
 h1 {
   font-weight: bold;
   text-align: center;
+  font-family: 'Mali', cursive;
 }
 h3 {
     border: 1px black solid;
@@ -14,6 +14,7 @@ h3 {
     top: 0;
     right: 0;
     padding: 1% 10%;
+    font-family: 'Mali', cursive;
 }
 .title1 {
   background: #f3c3c3;
