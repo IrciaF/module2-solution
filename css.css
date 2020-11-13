@@ -31,7 +31,7 @@ p {
   position: relative;
   background-color: #eae4e5;
   border: 1px black solid;
-  margin: 10px;
+  /*margin: 10px;*/
   width: 33.33%;
   min-height: 160px;
 }
